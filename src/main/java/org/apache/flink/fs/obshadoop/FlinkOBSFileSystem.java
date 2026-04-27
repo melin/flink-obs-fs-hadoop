@@ -22,8 +22,4 @@ public class FlinkOBSFileSystem extends HadoopFileSystem {
         return new FlinkOBSRecoverableWriter(getHadoopFileSystem());
     }
 
-    @Override
-    public FileSystemKind getKind() {
-        return FileSystemKind.OBJECT_STORE;
-    }
 }

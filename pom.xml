@@ -7,13 +7,13 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.huaweicloud</groupId>
     <artifactId>flink-obs-fs-hadoop</artifactId>
-    <version>1.12.1-hw-46</version>
+    <version>2.2.0</version>
     <name>flink-obs-fs-hadoop</name>
     <description>flink on obs</description>
     <packaging>jar</packaging>
 
     <properties>
-        <flink.version>1.20.3</flink.version>
+        <flink.version>2.2.0</flink.version>
         <hadoop.version>3.1.1</hadoop.version>
         <hadoop.huaweicloud.version>3.1.1-hw-54.6.6</hadoop.huaweicloud.version>
     </properties>
