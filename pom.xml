@@ -421,7 +421,7 @@
 
     <repositories>
         <repository>
-            <id>cloudera</id>
+            <id>huaweicloud</id>
             <url>https://repo.huaweicloud.com/repository/maven/huaweicloudsdk/</url>
         </repository>
     </repositories>
