@@ -12,5 +12,5 @@ mvn clean deploy -Pdeploy
 <dependency>
     <groupId>com.gitee.melin.huaweicloud</groupId>
     <artifactId>flink-obs-fs-hadoop</artifactId>
-    <version>1.0.0_1.20</version>
+    <version>1.0.0_2.2</version>
 </dependency>
