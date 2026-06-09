@@ -16,7 +16,7 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
 
-        <flink.version>1.20.3</flink.version>
+        <flink.version>1.20.4</flink.version>
         <hadoop.version>3.1.1</hadoop.version>
         <hadoop.huaweicloud.version>3.1.1-hw-54.6.6</hadoop.huaweicloud.version>
     </properties>
